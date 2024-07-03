@@ -3,7 +3,7 @@
 This is a quick python script that uses the Google OpenVision API to parse the output of a HEMAVET 950FS machine.
 The output captures printed results with reasonably high fidelity. However, handwritten notes on the paper may or may not be well represented.
 
-##Usage
+## Usage
 ```
 python3.9 --i <path_to_image_dir> -o <output_file_to_write_to>
 ```
